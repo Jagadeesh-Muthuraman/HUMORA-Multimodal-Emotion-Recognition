@@ -49,3 +49,6 @@ git clone https://github.com/Jagadeesh-Muthuraman/HUMORA-Multimodal-Emotion-Reco
 cd HUMORA-Multimodal-Emotion-Recognition
 pip install -r requirements.txt
 streamlit run app.py
+
+Jagadeesh Muthuraman  
+B.Tech Information Technology
