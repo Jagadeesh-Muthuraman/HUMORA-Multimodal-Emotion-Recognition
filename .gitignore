@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# Temp files
+temp.wav
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset (optional)
+data/
+
+# Model checkpoints (optional if large)
+*.h5
+*.pt
